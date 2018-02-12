@@ -1,0 +1,16 @@
+#überschrift {
+    text-align: center;
+    Color:black;
+}
+#überschrift a {
+    text-decoration: none;
+    Color:rgb(201, 141, 14);
+}
+body {
+    background-image: url("../../../img/cache.png");
+
+
+}
+section {
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+body {
+    background-image: url("img/background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+#überschrift {
+    text-align: center;
+    Color:blanchedalmond;
+}
+#überschrift a {
+    text-decoration: none;
+    Color: blanchedalmond;
+}
+
+aside {
+    text-align: center;
+    
+}
+aside a {
+    width: 400px;
+    
+   
+}
+aside img {
+    margin : 3px;
+    width: 400px;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+section {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+footer{
+    color: blanchedalmond;
+    text-align: center;
+    bottom: 0;
+}

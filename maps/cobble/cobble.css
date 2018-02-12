@@ -1,0 +1,14 @@
+body {
+    background-image: url("../../img/cobble.png");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#überschrift {
+    text-align: center;
+    Color:rgb(200, 218, 6);
+}
+#überschrift a {
+    text-decoration: none;
+    Color:rgb(200, 218, 6);
+}

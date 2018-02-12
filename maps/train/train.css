@@ -1,0 +1,14 @@
+body {
+    background-image: url("../../img/train.png");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#überschrift {
+    text-align: center;
+    Color:rgb(2, 32, 14);
+}
+#überschrift a {
+    text-decoration: none;
+    Color:rgb(2, 32, 14);
+}
