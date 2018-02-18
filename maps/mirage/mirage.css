@@ -6,9 +6,28 @@ body {
 }
 #überschrift {
     text-align: center;
-    Color: white;
+    Color:black;
 }
 #überschrift a {
     text-decoration: none;
-    Color: white;
+    Color:rgb(201, 141, 14);
+}
+aside {
+    text-align: center;
+    
+}
+#t img {
+    margin : 3px;
+    border-collapse: collapse;
+    border: 3px solid silver;
+}
+#ct img {
+    margin : 3px;
+    border-collapse: collapse;
+    border: 3px solid silver;
+}
+footer{
+    color: rgb(2, 29, 15);
+    text-align: center;
+    bottom: 0;
 }
